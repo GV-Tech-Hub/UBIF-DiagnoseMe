@@ -1,0 +1,13 @@
+RepairRx/
+├── DiagnoseMe.py          # Main application file
+├── README.md              # Documentation
+├── requirements.txt       # Package dependencies
+├── assets/               # Image and resource files
+│   ├── icons/           # UI icons
+│   └── reports/         # Report templates
+├── tests/               # Test files
+│   └── unit_tests.py
+├── docs/                # Additional documentation
+│   ├── user_guide.md
+│   └── technical_specs.md
+└── LICENSE              # License file
